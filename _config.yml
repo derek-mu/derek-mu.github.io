@@ -1,26 +1,27 @@
 locale: "en-US"
-title: Strata # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: Derek # Title of your site
+url: "https://derek-mu.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: > # this means to ignore newlines until "baseurl:"
+description: >  # this means to ignore newlines until "baseurl:"
+  Hello World!
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name: Your Name
-  email: your-email@domain.com
-  twitter: # twitter username without the @ symbol
+  name: Derek Mu
+  email: meverestz@gmail.com
+  twitter: 0xDerek668 # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
   name: Strata Reloaded Template
   links:
-    - https://github.com/comfusion/strata-reloaded-jekyll-template
+    - https://derek-mu.github.io/home/
 
 permalink: pretty
 
