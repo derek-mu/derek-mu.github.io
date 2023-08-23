@@ -19,10 +19,10 @@ Seriously, the web3 meaning is all about the decentralization of the internet an
 Web3 represents a significant paradigm shift in how we think about the internet and its potential. Here's a deeper dive into why Web3 is seen as revolutionary:
 
 > Decentralization
--  One of the main principles of Web3 is decentralization, meaning that no single entity has complete control over the entire network. This prevents monopolies and gives power back to the individual users. Decentralized applications (dApps) can operate without intermediaries, which can reduce costs and increase efficiency.
+ One of the main principles of Web3 is decentralization, meaning that no single entity has complete control over the entire network. This prevents monopolies and gives power back to the individual users. Decentralized applications (dApps) can operate without intermediaries, which can reduce costs and increase efficiency.
 
 > Security and Transparency
--  With the use of blockchain technology, Web3 aims to provide a more secure environment for transactions and data storage. Every transaction is recorded on a public ledger, making it transparent and immutable. This can greatly reduce fraudulent activities and tampering.
+  With the use of blockchain technology, Web3 aims to provide a more secure environment for transactions and data storage. Every transaction is recorded on a public ledger, making it transparent and immutable. This can greatly reduce fraudulent activities and tampering.
 
 > Censorship Resistance
 -  Decentralization inherently makes it difficult for any single entity to censor or shut down the network. This makes Web3 platforms more resilient to censorship attempts by governments or powerful entities.
