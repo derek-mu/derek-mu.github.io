@@ -1,5 +1,7 @@
-# All in Cryptos
+# **All in Cryptos**
+## #BUIDL #HODL
 
-Derek's Home &copy; 2023
+
+Derek's Blogs &copy; 2023 
 
 ![](/images/blbcover.gif)
